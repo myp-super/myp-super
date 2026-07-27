@@ -1,53 +1,116 @@
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&height=80&lines=Hi%2C+I'm+Yupei+Ma+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-  Undergraduate in Measurement & Control<br>
-  AI for Intelligent Systems &nbsp;·&nbsp; Embedded & Robotics Enthusiast
-</h3>
-
-<p align="center">
-  <a href="mailto:2157894069@qq.com">
-    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/myp-super">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=myp-super&style=for-the-badge&color=3B82F6&label=VISITORS" alt="Profile Views" />
-</p>
-
-<br>
-
----
-
-<h2>📖 &nbsp;About</h2>
-
-<h4>
-  I'm an undergraduate student passionate about the intersection of <b>artificial intelligence</b> and <b>physical systems</b>. My academic focus lies in measurement & control engineering, where I explore how intelligent algorithms can empower autonomous decision-making in real-world environments — from embedded devices to robotic platforms.
-</h4>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yupei+Ma+%F0%9F%91%8B;Building+Intelligent+Systems" />
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-3B82F6?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Embedded%20Systems-10B981?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Autonomous%20Systems-8B5CF6?style=for-the-badge&logo=ros&logoColor=white" alt="Autonomous" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Intelligent%20Measurement%20%26%20Control-F59E0B?style=for-the-badge&logo=proteus&logoColor=white" alt="Measurement" />
+  <b>AI Research · Embedded Systems · Intelligent Mechatronics</b>
+</p>
+
+<p>
+  Undergraduate in Measurement & Control Technology and Instrumentation
+</p>
+
+<p>
+  <a href="mailto:2157894069@qq.com">
+    <img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/myp-super">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=myp-super&style=flat-square&color=3B82F6"/>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+I'm an undergraduate researcher majoring in **Measurement & Control Technology and Instrumentation**, with a strong passion for building intelligent systems that bridge **Artificial Intelligence** and **physical-world applications**.
+
+My research focuses on developing AI-driven solutions for embedded and autonomous systems, combining machine learning, intelligent perception, and edge computing to solve real-world engineering problems.
+
+Currently, I'm exploring the intersection of:
+
+- 🤖 Artificial Intelligence
+- ⚡ Embedded Systems
+- 🦾 Intelligent Mechatronic Systems
+- 🚗 Autonomous Systems
+- 📡 Edge Intelligence
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,linux,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/FPGA-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/VHDL-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
+
 </p>
 
 ---
 
-<h2>🤝 &nbsp;Connect</h2>
+## Research Interests
 
-<h4>
-  I'm always open to interesting conversations and collaboration opportunities — feel free to reach out via <a href="mailto:2157894069@qq.com">email</a> or open an issue on any of my repositories!
-</h4>
+```text
+Artificial Intelligence
+Machine Learning
+Embedded Systems
+Intelligent Mechatronics
+Measurement & Control
+Autonomous Systems
+Edge Intelligence
+Robotics
+Computer Vision
+```
 
-<br>
+---
 
-<h4 align="center">made with ☕ by <b>Yupei Ma</b></h4>
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=myp-super&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myp-super&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=myp-super&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="mailto:2157894069@qq.com">
+<img src="https://img.shields.io/badge/Email-Contact-3B82F6?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/myp-super">
+<img src="https://img.shields.io/badge/GitHub-myp--super-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> *"Turning ideas into intelligent systems that connect AI with the physical world."*
+
+</div>
