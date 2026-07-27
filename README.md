@@ -47,24 +47,6 @@ Currently, I'm exploring the intersection of:
 
 ---
 
-## Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,linux,git,github,vscode"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/FPGA-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/VHDL-6A1B9A?style=flat-square"/>
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-
-</p>
-
----
 
 <div align="center">
 
