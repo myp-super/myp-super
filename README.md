@@ -63,22 +63,6 @@ Currently, I'm exploring the intersection of:
 
 ---
 
-## Research Interests
-
-```text
-Artificial Intelligence
-Machine Learning
-Embedded Systems
-Intelligent Mechatronics
-Measurement & Control
-Autonomous Systems
-Edge Intelligence
-Robotics
-Computer Vision
-```
-
----
-
 <div align="center">
 
 > *"Turning ideas into intelligent systems that connect AI with the physical world."*
