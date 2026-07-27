@@ -38,11 +38,7 @@ My research focuses on developing AI-driven solutions for embedded and autonomou
 
 Currently, I'm exploring the intersection of:
 
-- 🤖 Artificial Intelligence
-- ⚡ Embedded Systems
-- 🦾 Intelligent Mechatronic Systems
-- 🚗 Autonomous Systems
-- 📡 Edge Intelligence
+🤖 Artificial Intelligence · ⚡ Embedded Systems · 🦾 Intelligent Mechatronic Systems · 🚗 Autonomous Systems · 📡 Edge Intelligence
 
 <p>
   <img src="pic.png" width="100%" style="border-radius: 8px;" />
