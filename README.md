@@ -44,7 +44,7 @@ Currently, I'm exploring the intersection of:
   <b>Contact:</b> <a href="mailto:13933838842@163.com">Email</a> · <a href="https://github.com/myp-super">GitHub</a>
 </p>
 
-<div style="max-height: 200px; overflow: hidden; border-radius: 8px;">
+<div style="max-height: 120px; overflow: hidden; border-radius: 8px;">
   <img src="pic.png" width="100%" />
 </div>
 
