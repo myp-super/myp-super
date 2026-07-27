@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="pic.png" width="280" style="border-radius: 8px;" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yupei+Ma+%F0%9F%91%8B;Building+Intelligent+Systems" />
 
 <p>
@@ -47,6 +45,8 @@ Currently, I'm exploring the intersection of:
 - 📡 Edge Intelligence
 
 <p>
+  <img src="pic.png" width="100%" style="border-radius: 8px;" />
+
   <b>Contact:</b> <a href="mailto:13933838842@163.com">Email</a> · <a href="https://github.com/myp-super">GitHub</a>
 </p>
 
