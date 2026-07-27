@@ -27,9 +27,9 @@
 
 <h2>📖 &nbsp;About Me</h2>
 
-<p>
+<h4>
   I'm an undergraduate student passionate about the intersection of <b>artificial intelligence</b> and <b>physical systems</b>. My academic focus lies in measurement & control engineering, where I explore how intelligent algorithms can empower autonomous decision-making in real-world environments — from embedded devices to robotic platforms.
-</p>
+</h4>
 
 <br>
 
