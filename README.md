@@ -41,10 +41,10 @@ Currently, I'm exploring the intersection of:
 🤖 Artificial Intelligence · ⚡ Embedded Systems · 🦾 Intelligent Mechatronic Systems · 🚗 Autonomous Systems · 📡 Edge Intelligence
 
 <p>
-  <img src="pic.png" width="100%" style="border-radius: 8px;" />
-
   <b>Contact:</b> <a href="mailto:13933838842@163.com">Email</a> · <a href="https://github.com/myp-super">GitHub</a>
 </p>
+
+<img src="pic.png" width="100%" style="border-radius: 8px;" />
 
 ---
 
