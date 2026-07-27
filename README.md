@@ -38,6 +38,10 @@ Currently, I'm exploring the intersection of:
 - 🚗 Autonomous Systems
 - 📡 Edge Intelligence
 
+<p>
+  📫 <a href="mailto:13933838842@163.com">Email</a> · <a href="https://github.com/myp-super">GitHub</a>
+</p>
+
 ---
 
 ## Tech Stack
@@ -72,22 +76,6 @@ Edge Intelligence
 Robotics
 Computer Vision
 ```
-
----
-
-## Connect
-
-<p align="center">
-
-<a href="mailto:13933838842@163.com">
-<img src="https://img.shields.io/badge/Email-Contact-3B82F6?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/myp-super">
-<img src="https://img.shields.io/badge/GitHub-myp--super-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
