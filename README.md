@@ -23,7 +23,7 @@
   <a href="https://space.bilibili.com/447536368">
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=myp-super&style=flat-square&color=3B82F6"/>
+
 </p>
 
 </div>
