@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="pic.png" width="280" style="border-radius: 8px;" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yupei+Ma+%F0%9F%91%8B;Building+Intelligent+Systems" />
 
 <p>
