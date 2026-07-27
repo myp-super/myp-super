@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <a href="mailto:2157894069@qq.com">
+  <a href="mailto:13933838842@163.com">
     <img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/myp-super">
@@ -79,7 +79,7 @@ Computer Vision
 
 <p align="center">
 
-<a href="mailto:2157894069@qq.com">
+<a href="mailto:13933838842@163.com">
 <img src="https://img.shields.io/badge/Email-Contact-3B82F6?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
