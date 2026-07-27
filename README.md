@@ -3,8 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&height=80&lines=Hi%2C+I'm+Yupei+Ma+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Undergraduate in Measurement & Control</h3>
-<h3 align="center">AI for Intelligent Systems &nbsp;·&nbsp; Embedded & Robotics Enthusiast</h3>
+<h3 align="center">
+  Undergraduate in Measurement & Control<br>
+  AI for Intelligent Systems &nbsp;·&nbsp; Embedded & Robotics Enthusiast
+</h3>
 
 <p align="center">
   <a href="mailto:2157894069@qq.com">
@@ -19,21 +21,14 @@
 </p>
 
 <br>
-<br>
 
 ---
 
-<br>
-
-<h2>📖 &nbsp;About Me</h2>
+<h2>📖 &nbsp;About</h2>
 
 <h4>
   I'm an undergraduate student passionate about the intersection of <b>artificial intelligence</b> and <b>physical systems</b>. My academic focus lies in measurement & control engineering, where I explore how intelligent algorithms can empower autonomous decision-making in real-world environments — from embedded devices to robotic platforms.
 </h4>
-
-<br>
-
-<h2>🔭 &nbsp;Interests</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-3B82F6?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
@@ -45,24 +40,14 @@
   <img src="https://img.shields.io/badge/Intelligent%20Measurement%20%26%20Control-F59E0B?style=for-the-badge&logo=proteus&logoColor=white" alt="Measurement" />
 </p>
 
-<br>
-<br>
+---
 
 <h2>🤝 &nbsp;Connect</h2>
 
-<p>
-  I'm always open to interesting conversations and collaboration opportunities.
-  <br>
-  Feel free to reach out via <a href="mailto:2157894069@qq.com">email</a> or open an issue on any of my repositories!
-</p>
+<h4>
+  I'm always open to interesting conversations and collaboration opportunities — feel free to reach out via <a href="mailto:2157894069@qq.com">email</a> or open an issue on any of my repositories!
+</h4>
 
 <br>
 
 <h4 align="center">made with ☕ by <b>Yupei Ma</b></h4>
-
-<!--
-  Social links placeholder — add more later:
-  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
--->
