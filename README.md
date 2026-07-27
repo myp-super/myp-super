@@ -17,6 +17,9 @@
   <a href="https://github.com/myp-super">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.xiaohongshu.com/user/profile/632037ea0000000023025c26">
+    <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=myp-super&style=flat-square&color=3B82F6"/>
 </p>
 
