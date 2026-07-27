@@ -39,7 +39,7 @@ Currently, I'm exploring the intersection of:
 - 📡 Edge Intelligence
 
 <p>
-  📫 <a href="mailto:13933838842@163.com">Email</a> · <a href="https://github.com/myp-super">GitHub</a>
+  <b>Contact:</b> <a href="mailto:13933838842@163.com">Email</a> · <a href="https://github.com/myp-super">GitHub</a>
 </p>
 
 ---
