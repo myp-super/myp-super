@@ -55,4 +55,6 @@ Currently, I'm exploring the intersection of:
 
 > *"Turning ideas into intelligent systems that connect AI with the physical world."*
 
+<img src="https://komarev.com/ghpvc/?username=myp-super&style=flat-square&color=9CA3AF&label=visitors" />
+
 </div>
