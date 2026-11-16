@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yupei+Ma+%F0%9F%91%8B;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yupei+Ma+%F0%9F%91%8B;Exploring+AI+and+Computer+Vision" />
 
 <p>
-  <b>AI Research · Embedded Systems · Intelligent Mechatronics</b>
+  <b>AI Research · Computer Vision · Visual Perception</b>
 </p>
 
 <p>
-  Undergraduate in Measurement & Control Technology and Instrumentation
+  Undergraduate transferring to <b>Information and Communication Engineering</b>
 </p>
 
 <p>
@@ -32,13 +32,13 @@
 
 ## About Me
 
-I'm an undergraduate researcher majoring in **Measurement & Control Technology and Instrumentation**, with a strong passion for building intelligent systems that bridge **Artificial Intelligence** and **physical-world applications**.
+I'm an undergraduate researcher transferring to **Information and Communication Engineering**, with a strong passion for **Artificial Intelligence and Computer Vision**.
 
-My research focuses on developing AI-driven solutions for embedded and autonomous systems, combining machine learning, intelligent perception, and edge computing to solve real-world engineering problems.
+My research focuses on visual perception, representation learning and deep learning, aiming to develop robust vision algorithms for image and signal understanding. I’m also interested in efficient model optimization for practical perception systems.
 
 Currently, I'm exploring the intersection of:
 
-🤖 Artificial Intelligence · ⚡ Embedded Systems · 🦾 Intelligent Mechatronic Systems · 🚗 Autonomous Systems · 📡 Edge Intelligence
+👁️ Computer Vision · 🧠 Deep Learning · 📶 Signal Processing · ✨ Visual Representation Learning · ⚡ Efficient Edge AI
 
 <p>
   <b>Contact:</b> <a href="mailto:13933838842@163.com">Email</a> · <a href="https://github.com/myp-super">GitHub</a>
@@ -53,7 +53,7 @@ Currently, I'm exploring the intersection of:
 
 <div align="center">
 
-> *"Turning ideas into intelligent systems that connect AI with the physical world."*
+> *"Building robust visual perception models to understand signals and images."*
 
 <img src="https://komarev.com/ghpvc/?username=myp-super&style=flat-square&color=9CA3AF&label=visitors" />
 
