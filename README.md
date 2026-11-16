@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  Undergraduate transferring to <b>Information and Communication Engineering</b>
+  Measurement & Control Technology and Instrumentation | Information and Communication Engineering
 </p>
 
 <p>
@@ -32,7 +32,7 @@
 
 ## About Me
 
-I'm an undergraduate researcher transferring to **Information and Communication Engineering**, with a strong passion for **Artificial Intelligence and Computer Vision**.
+I work across **Measurement & Control Technology and Instrumentation** and **Information and Communication Engineering**, with a strong passion for **Artificial Intelligence and Computer Vision**.
 
 My research focuses on visual perception, representation learning and deep learning, aiming to develop robust vision algorithms for image and signal understanding. I’m also interested in efficient model optimization for practical perception systems.
 
